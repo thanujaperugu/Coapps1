@@ -1,0 +1,51 @@
+Patient ID, Age, Gender, Blood Pressure, Cholesterol Level, Blood Sugar Level, BMI, Diagnosis, Medication, Last Checkup Date
+1, 45, Male, 120/80, High, 120, 27, Diabetes, Insulin, 2023-07-15
+2, 62, Female, 140/90, Medium, 110, 31, Heart Disease, Blood Pressure Medication, 2023-05-20
+3, 35, Male, 130/85, Low, 95, 25, None, None, 2023-09-10
+4, 50, Female, 135/88, High, 125, 29, Cancer, None, 2023-06-30
+5, 55, Male, 125/78, Medium, 105, 28, Diabetes, Insulin, 2023-08-05
+6, 40, Female, 128/82, Low, 100, 26, None, None, 2023-10-01
+7, 68, Male, 150/95, High, 130, 32, Heart Disease, Cholesterol Medication, 2023-04-25
+8, 58, Female, 132/84, Medium, 115, 30, None, None, 2023-11-12
+9, 42, Male, 122/79, High, 123, 28, Cancer, None, 2023-03-15
+10, 60, Female, 137/88, Low, 98, 27, Diabetes, Insulin, 2023-09-28
+11, 47, Male, 128/83, High, 121, 29, Heart Disease, Blood Pressure Medication, 2023-06-15
+12, 38, Female, 125/80, Medium, 108, 26, None, None, 2023-12-05
+13, 56, Male, 130/85, High, 126, 29, Cancer, None, 2023-08-20
+14, 65, Female, 138/87, Low, 97, 28, Diabetes, Insulin, 2023-10-30
+15, 49, Male, 127/82, High, 124, 28, Heart Disease, Cholesterol Medication, 2023-05-10
+16, 43, Female, 129/83, Medium, 112, 27, None, None, 2023-11-20
+17, 53, Male, 132/86, High, 128, 30, Cancer, None, 2023-07-01
+18, 70, Female, 142/89, Low, 96, 29, Heart Disease, Blood Pressure Medication, 2023-04-10
+19, 46, Male, 126/81, High, 122, 28, None, None, 2023-08-15
+20, 63, Female, 136/86, Medium, 114, 29, Diabetes, Insulin, 2023-10-05
+21, 39, Male, 123/78, High, 120, 27, Cancer, None, 2023-03-20
+22, 59, Female, 133/85, Low, 99, 26, Heart Disease, Cholesterol Medication, 2023-11-15
+23, 52, Male, 129/84, High, 127, 30, None, None, 2023-06-25
+24, 67, Female, 139/88, Medium, 113, 28, Diabetes, Insulin, 2023-09-10
+25, 48, Male, 124/80, High, 121, 28, Heart Disease, Blood Pressure Medication, 2023-05-25
+26, 44, Female, 131/84, Medium, 111, 27, None, None, 2023-12-15
+27, 57, Male, 131/84, High, 125, 29, Cancer, None, 2023-08-01
+28, 66, Female, 140/90, Low, 98, 28, Heart Disease, Blood Pressure Medication, 2023-04-20
+29, 51, Male, 128/82, High, 123, 29, None, None, 2023-08-25
+30, 64, Female, 137/88, Medium, 115, 29, Diabetes, Insulin, 2023-10-10
+31, 41, Male, 122/79, High, 122, 28, Cancer, None, 2023-03-25
+32, 61, Female, 139/89, Low, 97, 28, Heart Disease, Cholesterol Medication, 2023-11-20
+33, 50, Male, 125/80, High, 120, 28, None, None, 2023-09-01
+34, 69, Female, 141/88, Medium, 114, 29, Diabetes, Insulin, 2023-10-15
+35, 45, Male, 127/82, High, 124, 28, Heart Disease, Blood Pressure Medication, 2023-06-05
+36, 54, Female, 130/85, Medium, 112, 27, None, None, 2023-12-25
+37, 71, Male, 143/90, High, 129, 31, Cancer, None, 2023-08-10
+38, 47, Female, 129/84, Low, 99, 26, Heart Disease, Cholesterol Medication, 2023-04-05
+39, 62, Male, 132/86, High, 127, 30, None, None, 2023-07-15
+40, 65, Female, 138/87, Medium, 114, 28, Diabetes, Insulin, 2023-09-20
+41, 46, Male, 126/81, High, 123, 28, Heart Disease, Blood Pressure Medication, 2023-05-15
+42, 53, Female, 131/85, Medium, 111, 27, None, None, 2023-12-01
+43, 64, Male, 133/87, High, 126, 29, Cancer, None, 2023-08-05
+44, 67, Female, 139/88, Low, 98, 28, Heart Disease, Blood Pressure Medication, 2023-04-10
+45, 49, Male, 127/82, High, 124, 28, None, None, 2023-08-15
+46, 61, Female, 136/86, Medium, 114, 29, Diabetes, Insulin, 2023-10-05
+47, 42, Male, 123/78, High, 120, 27, Cancer, None, 2023-03-20
+48, 59, Female, 133/85, Low, 99, 26, Heart Disease, Cholesterol Medication, 2023-11-15
+49, 52, Male, 129/84, High, 127, 30, None, None, 2023-06-25
+50, 66, Female, 140/90, Medium, 115, 28, Diabetes, Insulin, 2023-09-10
